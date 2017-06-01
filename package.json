@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "async": "^2.1.5",
+    "bluebird": "^3.4.7",
+    "body-parser": "^1.16.1",
+    "bower": "^1.8.0",
+    "co": "^4.6.0",
+    "excel-export": "^0.5.1",
+    "express": "^4.14.1",
+    "express3-handlebars": "^0.5.2",
+    "moment": "^2.17.1",
+    "mongoose": "^4.8.4",
+    "underscore": "^1.8.3",
+    "urllib": "^2.20.0"
+  }
+}
