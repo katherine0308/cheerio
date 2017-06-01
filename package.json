@@ -1,10 +1,13 @@
 {
+  "name": "cheerio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
     "async": "^2.1.5",
-    "bluebird": "^3.4.7",
     "body-parser": "^1.16.1",
     "bower": "^1.8.0",
-    "co": "^4.6.0",
+    "cheerio": "^0.22.0",
     "excel-export": "^0.5.1",
     "express": "^4.14.1",
     "express3-handlebars": "^0.5.2",
@@ -13,13 +16,11 @@
     "underscore": "^1.8.3",
     "urllib": "^2.20.0"
   },
+  "devDependencies": {},
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "name": "cheerio",
-  "version": "1.0.0",
-  "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/katherine0308/cheerio.git"
@@ -29,6 +30,5 @@
   "bugs": {
     "url": "https://github.com/katherine0308/cheerio/issues"
   },
-  "homepage": "https://github.com/katherine0308/cheerio#readme",
-  "description": ""
+  "homepage": "https://github.com/katherine0308/cheerio#readme"
 }

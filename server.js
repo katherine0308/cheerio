@@ -21,7 +21,7 @@ var handlebars = require('express3-handlebars').create({defaultLayout:'main'});
 app.engine('handlebars',handlebars.engine);
 app.set('view engine','handlebars');
 
-app.set('port',process.env.PORT || 8088);
+app.set('port',process.env.PORT || 8123);
 
 
 //路由开始
